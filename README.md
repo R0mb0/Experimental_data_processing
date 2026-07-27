@@ -12,6 +12,8 @@ Urbino`s University - Computing and digital innovation - Numerical Methods for L
 
 This repository contains my proposed solutions, source code, and detailed computational report for the project assigned in the Numerical Linear Algebra (Metodi Numerici per l'Algebra Lineare) course, part of the Computer Science degree program at the University of Urbino Carlo Bo.
 
+</div>
+
 ## Copyright and License Notice
 
 The custom code developed in this repository is licensed under the MIT License. 
