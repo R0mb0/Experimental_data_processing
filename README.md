@@ -1,4 +1,4 @@
-Urbino`s University - Computing and digital innovation - Numerical Methods for Linear Algebra
+Urbino`s University - Computing and digital innovation - Experimental Data Processing
 
 <div align="center">
 
