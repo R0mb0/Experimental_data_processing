@@ -218,3 +218,5 @@ __marimo__/
 .streamlit/secrets.toml
 Exercises/cowan_statistical_data_analysis.pdf
 Exercises/Exercise 3/Mozart_int16.wav
+Exercises/Exercise 3/mozart_before_after.png
+Exercises/Exercise 3/Mozart_cleaned.wav
